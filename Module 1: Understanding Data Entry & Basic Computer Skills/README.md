@@ -1,3 +1,5 @@
+# Understanding Data Entry & Basic Computer Skills
+
 ## What is Data Entry?
 
 Data entry is all about entering, updating and managing information in digital systems.
