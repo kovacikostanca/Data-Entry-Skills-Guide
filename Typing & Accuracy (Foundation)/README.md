@@ -2,7 +2,7 @@
 
 **1. Copy this list exactly, then compare it to the original:**
 
--Client ID: B2037-LK
+<span><code>Client ID: B2037-LK
 
 -Full Name: Alice R. Morgan
 
@@ -14,7 +14,7 @@
 
 -Subscription: Free Trial
 
--Payment Status: Pending
+-Payment Status: Pending</code></span>
 
 **2. Check for:**
 
