@@ -32,9 +32,9 @@ You need to be comfortable with these:
 Typing is essential. We’ll start slow and accurate, speed comes later.
 
 - Fingers on the home row:
-  Left: A S D F
-  Right: J K L ;
-  Thumbs on the space bar.
+  `Left: A S D F`
+  `Right: J K L ;`
+  `Thumbs on the space bar.`
 
 - Try this simple exercise:
 
