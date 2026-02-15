@@ -1,4 +1,4 @@
-# Typing & Basic Excel Skills
+<h1 align='center'>Typing & Basic Excel Skills</h1>
 
 Improve your typing, learn essential Excel functions, and start handling real data.
 
