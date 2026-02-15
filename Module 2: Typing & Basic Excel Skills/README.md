@@ -2,7 +2,7 @@
 
 Improve your typing, learn essential Excel functions, and start handling real data.
 
-## TypingSpeed & Accuracy
+## 1. TypingSpeed & Accuracy
 
 **Typing Practice**:- Go to [10FastFingers](https://10fastfingers.com/typing-test/english) or [TypingClub](https://www.typingclub.com/)
 
@@ -16,7 +16,7 @@ Improve your typing, learn essential Excel functions, and start handling real da
 
 ---
 
-## Excel / Google Sheets Basics
+## 2. Excel / Google Sheets Basics
 Most data entry jobs require spreadsheets. Let’s start with the very basics.
 
 ### A. Spreadsheet Layout
@@ -47,7 +47,7 @@ Most data entry jobs require spreadsheets. Let’s start with the very basics.
   <code>=COUNT(C1:C5)</code>
 
 
-## Exercise: Excel Practice
+## 3. Exercise: Excel Practice
 
 1. Open Excel or Google Sheets.
 2. In column A, type 5 numbers (e.g., 10, 20, 30, 40, 50).
